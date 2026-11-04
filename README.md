@@ -12,6 +12,8 @@ que es privado.
 | Archivo | Qué es |
 |---|---|
 | `index.html` | Política de privacidad de MoonGardening, EN + ES con selector de idioma. |
+| `horometro/index.html` | Política de privacidad de Horometro. |
+| `sumadora/index.html` | Soporte y política de privacidad de Sumadora, ES + EN. |
 
 ## Cómo se publica
 
